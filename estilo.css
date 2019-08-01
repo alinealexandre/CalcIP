@@ -1,0 +1,46 @@
+.barra_menu{
+	width: 100%;
+	height: 100px;
+	background-color: #bae7d6;
+	float: left;
+}
+
+#menu{
+	height: 100px !important ;
+}
+
+.corpo{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background-color: #CEF;
+}
+
+.retangulo{
+	width: 35%;
+	height: 380px;
+	float: left;
+	margin-left: 32.5%;
+	margin-top: 100px;
+	border-radius: 10px;
+
+}
+
+.area_texto{
+	width: 80%;
+	background-color: #eee;
+	margin-left: 10%;
+}
+
+#botao{
+	background-color: #4682B4;
+	color: white;
+}
+
+#letra2{
+	font-size: medium;
+}
+
+.oinput{
+	float: left !important;
+}
